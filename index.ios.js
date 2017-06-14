@@ -2,14 +2,15 @@ import React from 'react';
 import {
   AppRegistry,
   View,
-  Text
+  Text,
+  Image
 } from 'react-native';
 
 class AwesomeProject extends React.Component {
   render() {
     return (
-      <View>
-        <Text>Hello, Navigation!</Text>
+      <View style={{paddingTop:20}}>
+        <Image source={require('./testimage.jpg')} style={{ width: 400, height: 700 }}/>
       </View>
      )
 
