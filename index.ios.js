@@ -7,9 +7,8 @@ import {
 
 class AwesomeProject extends React.Component {
   render() {
-    const { navigate } = this.props.navigation;
     return (
-      <View>
+      <View style={{paddingTop:20}}>
         <Text>Hello, Navigation!</Text>
       </View>
      )
