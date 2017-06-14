@@ -16,3 +16,7 @@
 #### 触摸操作
 
 * 切换分支 `git checkout touchable`
+
+#### 动画操作
+
+* 切换分支 `git checkout animated`
