@@ -9,3 +9,9 @@
 #### 颜色的多种写法
 
 * 切换分支 `git checkout color`
+
+
+#### 图片资源
+
+* 切换分支 `git checkout image`
+
